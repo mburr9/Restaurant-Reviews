@@ -124,12 +124,12 @@ nav h1 a {
   background-color: white;
   border: 1px solid #fff;
   font-family: Arial,sans-serif;
-  font-size: 1.1em;
+  font-size: 1em;
   height: 35px;
   letter-spacing: 0;
   margin: 10px;
   padding: 0 10px;
-  width: 200px;
+  width: 150px;
 }
 
 /* ====================== Restaurant Listing ====================== */
