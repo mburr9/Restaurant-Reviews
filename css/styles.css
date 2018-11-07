@@ -228,14 +228,18 @@ nav h1 a {
   text-transform: uppercase;
 	width: 90%;
 }
+
+#restaurant-container {
+	margin-left: 20px;
+}
+
 #restaurant-container, #reviews-container {
   border-bottom: 1px solid #d9d9d9;
   border-top: 1px solid #fff;
   width: 100%;
-	margin-left: 20px;
 }
 #reviews-container {
-  padding: 30px 40px 80px;
+  padding: 30px 20px 80px;
 }
 #reviews-container h2 {
   color: #f58500;
