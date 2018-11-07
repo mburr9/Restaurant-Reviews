@@ -1,0 +1,26 @@
+@media screen and (min-width: ) and (max-width: )
+
+.inside #map-container {
+  background: blue none repeat scroll 0 0;
+  height: 87%;
+  position: fixed;
+  right: 0;
+  top: 80px;
+  width: 50%;
+}
+
+.inside header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+#restaurant-container, #reviews-container {
+  padding: 140px 40px 30px;
+  width: 50%;
+}
+
+#reviews-container {
+  padding: 30px 40px 80px;
+}
