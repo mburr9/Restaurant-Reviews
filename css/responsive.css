@@ -26,6 +26,10 @@
 }
 
 @media screen and (min-width: 700px) {
+  #restaurants-list {
+    justify-content: space-between;
+  }
+  
   #restaurants-list li {
     width: 45%;
   }
