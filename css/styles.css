@@ -280,6 +280,7 @@ nav h1 a {
   flex-basis: 50%;
   color: #fff;
   margin: 0 0 10px;
+  font-size: 1.2em;
 }
 
 .review-date {
@@ -287,6 +288,7 @@ nav h1 a {
   color: #fff;
   text-align: right;
   margin: 0 0 10px;
+  font-size: 1.1em;
 }
 
 .review-rating {
