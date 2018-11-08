@@ -24,3 +24,9 @@
 #reviews-container {
   padding: 30px 40px 80px;
 }
+
+@media screen and (min-width: 700px) {
+  #restaurants-list li {
+    width: 45%;
+  }
+}
