@@ -298,3 +298,13 @@ nav h1 a {
   background-color: #f9a600;
   border-radius: 3px;
 }
+
+.skip-link {
+  position: fixed;
+  left: -200px;
+}
+
+.skip-link:focus {
+  position: static;
+  color: #f9a600;
+}
