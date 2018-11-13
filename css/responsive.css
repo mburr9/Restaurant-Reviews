@@ -1,10 +1,9 @@
-/* @media screen and (min-width: ) and (max-width: )
+@media screen and (min-width: 425px) {
+  nav h1 {
+    padding-bottom: 20px;
+  }
+}
 
-
-
-
-
-*/
 
 @media screen and (min-width: 700px) {
   #restaurants-list {
